@@ -24,3 +24,7 @@ WantedBy=multi-user.target
 sudo systemctl daemon-reload
 sudo systemctl restart dino_oled.service
 sudo systemctl status dino_oled.service
+
+
+
+![Dino_GIF](assets/dino.gif)
